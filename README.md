@@ -1,14 +1,19 @@
-# Propensity-Score-Matching-in-R
+---
+title: README for Propensity Score Matching R Functions 
+author: Jason Johnson
+---
+
+
 These functions depend on using the Data Wrangling Functions in R
 
 *These PSM functions are an attempt to consolidate and unify the current propensity score matching packages to provide a guide for practitioners interested in conducting propensity score matching using R.*  
 
-**The following propensity score matching packages are required to use these functions:**  
+**The following propensity score matching packages from CRAN are required to use these functions:**  
 1) MatchIt   
 2) optmatch  
 3) Matching  
 
-**Additional dependencies include:**  
+**Additional dependencies include the following packages available from CRAN:**  
 1) data.table  
 2) plyr  
 3) lattice  
@@ -17,7 +22,10 @@ These functions depend on using the Data Wrangling Functions in R
 6) maptools  
 7) DescTools  
 8) openxlsx  
-9) devtools  
+9) devtools
+
+**These functions also depend on the helper functions for data wrangling on the following github repository: https://github.com/jasonrpro/Data-Wrangling-Functions-using-R**
+
 
 For Windows users Rtools must be installed and make sure instructions are followed from this website: https://github.com/stan-dev/rstan/wiki/Install-Rtools-for-Windows
 Specifically, note that PATH must be checked during the wizard setup even though it is not the default option.
