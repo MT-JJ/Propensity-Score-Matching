@@ -1,7 +1,7 @@
 ---
 title: README for Propensity Score Matching R Functions 
 author: Jason Johnson
-ouput: html
+output: html
 ---
 
 *These PSM functions are an attempt to consolidate and unify the current propensity score matching packages to provide a guide for practitioners interested in conducting propensity score matching using R.*  
