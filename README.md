@@ -1,6 +1,6 @@
 ---
 title: README for Propensity Score Matching R Functions 
-author: Jason Johnson
+author: Jason Johnson & Marlene Tejeda
 output: html
 ---
 
